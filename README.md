@@ -1,6 +1,6 @@
 
 
-# ECommerce -1
+# ECommerce
 
 This project was generated using [Nx](https://nx.dev).
 
